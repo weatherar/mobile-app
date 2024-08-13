@@ -1,0 +1,9 @@
+tutorial mengapload app ke playstore
+https://youtu.be/L_GRV2EJiHg?si=h2yvPbyUAjygXE98
+
+https://colab.research.google.com/drive/1WhZ4HSva5Wf9oTMkAe43HtgMQPXvHy52?usp=sharing
+
+https://github.com/aminahnurrahmawati/mobile-programming-using-kivy/blob/main/mobile%20programming/convert_kivy_to_apk_(fixed)_ipynb_.ipynb
+
+https://youtu.be/L_GRV2EJiHg?si=xSZMiuYHxQWbHpX6
+
